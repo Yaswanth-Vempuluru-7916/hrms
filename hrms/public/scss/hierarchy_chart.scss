@@ -1,5 +1,5 @@
 .node-card {
-	background: #04dbf8;
+	background: white;
 	border-radius: 0.5rem;
 	padding: 0.75rem;
 	margin-left: 3rem;
@@ -136,7 +136,7 @@
 }
 
 .node-card.collapsed {
-	background: #0696d9;
+	background: white;
 	border-radius: 0.5rem;
 	padding: 0.75rem;
 	width: 15rem;
@@ -273,7 +273,7 @@
 }
 
 .node-group {
-	background: #0babd7;
+	background: white;
 	border: 1px solid var(--border-color);
 	box-shadow: var(--shadow-sm);
 	border-radius: 0.5rem;
